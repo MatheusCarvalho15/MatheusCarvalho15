@@ -2,7 +2,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4c2aef&height=100&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c2aef&size=40&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Matheus+de+Carvalho+Santana;Eu+tenho+17+anos;Eu+estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4c2aef&size=40&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Matheus+de+Carvalho+Santana;+Tenho+18+anos;+Estudo+Informática+no+Instituto+Federal;Bem+vindo!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
